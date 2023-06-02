@@ -84,7 +84,7 @@ add_action( 'admin_init', 'hoory_register_settings' );
  */
 function hoory_register_settings() {
   add_option('hoorySiteToken', '');
-  add_option('hoorySiteURL', '');
+  add_option('hoorySiteURL', 'https://app.hoory.com');
   add_option('hooryWidgetLocale', 'en');
   add_option('hooryWidgetType', 'standard');
   add_option('hooryWidgetPosition', 'right');
