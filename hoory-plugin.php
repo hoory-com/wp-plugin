@@ -178,6 +178,7 @@ function hoory_options_page() {
           <option <?php selected(get_option('hooryWidgetLocale'), 'zh_CN'); ?> value="zh_CN">中文 (zh-CN)</option>
           <option <?php selected(get_option('hooryWidgetLocale'), 'zh_TW'); ?> value="zh_TW">中文 (台湾) (zh-TW)</option>
           <option <?php selected(get_option('hooryWidgetLocale'), 'zh'); ?> value="zh'">中文 (zh)</option>
+          <option <?php selected(get_option('hooryWidgetLocale'), 'hy'); ?> value="zh'">հայերեն (hy)</option>
         </select>
       </div>
       <?php if (get_option('hooryWidgetType') == 'expanded_bubble') : ?>
