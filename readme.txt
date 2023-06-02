@@ -1,5 +1,5 @@
 === Hoory Plugin ===
-Contributors: antpb, hooryengineering
+Contributors: Hoory
 Tags: chat, live-chat, support, chat-support, customer-support, customer-engagement
 Requires at least: 4.5
 Tested up to: 5.8
