@@ -1,5 +1,5 @@
-# Hoory Widget Plugin #
-**Contributors:** [Hoory](https://www.hoory.com)  
+# Hoory Plugin #
+**Contributors:** [Hoory](https://profiles.wordpress.org/Hoory)  
 **Tags:** chat, live-chat, support, chat-support, customer-support, customer-engagement  
 **Requires at least:** 4.5  
 **Tested up to:** 5.8  
@@ -29,9 +29,6 @@ You need an account at a self-hosted Hoory or Hoory Cloud (https://app.hoory.com
 Live-chat widget supports multiple languages, you can select
 
 ## Changelog ##
-
-### 0.2.2 ###
-- Armenian language added.
 
 ### 0.2.0 ###
 - Add options for customizing the plugin
